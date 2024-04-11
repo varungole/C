@@ -1,4 +1,0 @@
-basic operations of a computer system --> computer's instruction system
-computer program --> collection of the instruction of the particular computer
-
-assembler translated the assembly language program from its symbolic format into the specific machine instructions
